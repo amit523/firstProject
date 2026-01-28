@@ -18,7 +18,7 @@
   <build>
     <finalName>firstProject</finalName>
      <plugins>
-            <!-- FIX: Modern WAR plugin -->
+            <!--  Modern WAR plugin -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
